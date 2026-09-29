@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
 ];
 
 export const CONTACT = {
-  email: "ap@example.com",
-  github: "https://example-link.com",
-  linkedin: "https://example-link.com",
+  email: "perosevica02@gmail.com",
+  github: "https://github.com/PerosevicAleksandar",
+  linkedin: "/",
 };
