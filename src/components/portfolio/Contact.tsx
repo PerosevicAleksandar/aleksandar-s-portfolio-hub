@@ -7,7 +7,7 @@ type Errors = { name?: string; email?: string; message?: string };
 
 const links = [
   { icon: Mail, label: "Email", value: CONTACT.email, href: `mailto:${CONTACT.email}` },
-  { icon: Github, label: "GitHub", value: "example-link.com", href: CONTACT.github },
+  { icon: Github, label: "GitHub", value: "https://github.com/PerosevicAleksandar", href: CONTACT.github },
   { icon: Linkedin, label: "LinkedIn", value: "example-link.com", href: CONTACT.linkedin },
 ];
 
